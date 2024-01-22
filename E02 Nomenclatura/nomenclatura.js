@@ -20,4 +20,4 @@ const calculadoraSeno = (sumando1, sumando2, multiplicador) => {
   return seno;
 };
 
-calculadoraSeno(sumando1, sumando2, multiplicador);
+console.log(calculadoraSeno(sumando1, sumando2, multiplicador));

@@ -17,6 +17,6 @@ const numerosImpares = (numeroEntrada) => {
   return impares;
 };
 
-numerosImpares(numeroEntrada);
+console.log(numerosImpares(numeroEntrada));
 
 
