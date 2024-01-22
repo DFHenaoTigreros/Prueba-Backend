@@ -43,5 +43,11 @@ Estructura de los archivo y carpetas de la aplicación, garantizando un desarrol
 
 
 ## Patrones de diseño
+Patrones que nos sirven como guia para la solución de problemas que pueden surgir en el desarrollo de la aplicación:
+
+- **Middleware Pattern:** Permite definir funciones para realizar tareas en el manejo de las solicitudes HTTP.
+- **Singleton Pattern:** Garantiza que una clase tenga solo una instancia.
+- **Repository Pattern:** Gestiona la persitencia de datos de la base de datos o una API.
+
 
 
