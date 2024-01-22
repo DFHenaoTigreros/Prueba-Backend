@@ -14,7 +14,7 @@ const numerosImpares = (numeroEntrada) => {
     impares.push(i)
   };
 
-  return impares
+  return impares;
 };
 
 numerosImpares(numeroEntrada);

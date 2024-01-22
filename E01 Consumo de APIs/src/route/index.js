@@ -3,7 +3,7 @@ const {getTenRepositories} = require("../handler/getTenRepositories");
 
 const router = express.Router();
 
-router.get("/repositorios", getTenRepositories);
+router.get("/repos", getTenRepositories);
 
 module.exports = {
   router
